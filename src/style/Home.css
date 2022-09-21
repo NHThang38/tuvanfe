@@ -1,0 +1,50 @@
+/* Introduce */
+* {
+    margin    : 0;
+    padding   : 0;
+    box-sizing: border-box;
+
+}
+
+.intro .intro_content .text_intro {
+    background  : rgba(247, 247, 247, 0.711);
+    width       : 680px;
+    line-height : 2rem;
+    margin-right: 20px;
+}
+
+.intro .intro_content img {
+    width : 680px;
+    height: 220px;
+}
+
+/* reset slick slider css */
+
+
+.slick-prev {
+
+    position: relative !important;
+    z-index : 10;
+    left    : 20px !important;
+    top     : 200px !important;
+}
+
+/* .slick-prev:before {
+    color: rgb(86, 86, 217) !important;
+}
+.slick-next:before {
+    color: rgb(86, 86, 217) !important;
+} */
+
+
+.slick-next {
+
+    /* position: relative !important;  */
+    z-index: 10;
+    top    : 200px !important;
+    right  : 20px !important;
+}
+
+.card img {
+    transition: all 0.5s;
+}

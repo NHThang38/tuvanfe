@@ -1,0 +1,21 @@
+/* form_tuvan */
+.form_tuvan {
+    width           : 1000px !important;
+    margin          : 20px 130px;
+    padding         : 20px;
+    border          : 1px solid #444954;
+    border-radius   : 10px;
+    background-color: rgba(232, 245, 248, 0.775);
+}
+
+.form_tuvan .heading2 {
+    font-size  : 24px;
+    font-weight: 500;
+}
+
+.form_tuvan .note_tv {
+    font-size   : 14px;
+    padding-left: 5px;
+    line-height : 39px;
+
+}

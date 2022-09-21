@@ -1,0 +1,27 @@
+* {
+  margin    : 0;
+  padding   : 0;
+  box-sizing: border-box;
+
+}
+
+.heading1 {
+  font-size: 24px;
+}
+
+.navbar-nav .nav-item a {
+  font-size: 16px;
+
+}
+
+.login_link a,
+.info a {
+  font-size: 16px;
+}
+.logout{
+  color: var(--bs-link-color);
+  cursor: pointer ;
+}
+.logout:hover{
+  color: var(--bs-link-hover-color);
+}
